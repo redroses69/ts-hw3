@@ -1,0 +1,14 @@
+[project]
+name = "hw3-ts"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "catboost>=1.2.10",
+    "matplotlib>=3.9.4",
+    "numpy>=2.0.2",
+    "pandas>=2.3.3",
+    "statsforecast>=2.0.2",
+    "statsmodels>=0.14.6",
+]
